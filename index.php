@@ -10,6 +10,12 @@
 <body>
     <div class="container">
         <h1 class="display-4 text-center text-info">Découverte de Github</h1>
+
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.
+            Voluptas dicta ea eius.
+            Magnam corrupti exercitationem amet et deserunt deleniti consectetur?
+            Provident asperiores consequuntur necessitatibus,
+            voluptates nesciunt alias sapiente magni dolorum?</p>
     </div>
 </body>
 </html>
