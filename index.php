@@ -16,6 +16,7 @@
             Magnam corrupti exercitationem amet et deserunt deleniti consectetur?
             Provident asperiores consequuntur necessitatibus,
             voluptates nesciunt alias sapiente magni dolorum?</p>
+        <h2 class="text-success text-center">Utilisation de Git / Github</h2>
     </div>
 </body>
 </html>
